@@ -4,6 +4,7 @@ layout: post
 description: 머신러닝 엔지니어가 되기 위해서
 categories: [markdown]
 title: Be a Machine Learning Engineer
+sticky_rank: 1
 ---
 
 ## 머신러닝 엔지니어
